@@ -9734,7 +9734,6 @@ Aman Panjwani
 - [Frank Silver](https://github.com/FrankSilver)
 - [Abhishek Bhattacharya](https://github.com/AbhishekBhattacharya)
 - [Ryan James](https://github.com/rejam)
-- [Danielle Speroni](https://github.com/DanielleSperoni)
 - [Ethan Jhong](https://github.com/ejhon1116)
 - [Js636f](https://github.com/js636f)
 - [Mayank](https://github.com/mayank-2016)
