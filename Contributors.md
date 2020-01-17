@@ -11170,6 +11170,7 @@ macdara-dev
 - [Rishi-kaushik](https://github.com/Rishi-kaushik)
 - [Vladi Beeblebrox](https://github.com/ewoks)
 - [Erica Culbreath](https://github.com/EriJBreeze)
+- [Danielle Speroni] (http://github.com/DanielleSperoni)
 - [Chelsea C](https://github.com/sea-of-chel)
 - [Hasika Dilshani](https://github.com/HasikaDilshani)
 - [Caio Lopes](https://github.com/caiolopes)
